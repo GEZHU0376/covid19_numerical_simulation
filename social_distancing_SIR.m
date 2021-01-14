@@ -1,5 +1,5 @@
 % SIR model to predict covid outbreak
-% Ge Zhu
+% GZ
 % S(t+1) = S(t) - β * I(t) * S(t)
 % I(t+1) = I(t) + β * S(t) * I(t) - γ * I(t)
 % R(t+1) = R(t) + γ * I(t)
